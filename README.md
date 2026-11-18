@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner-github.png" width="100%" alt="Banner profissional ivansenai">
+</p>
 Olá! 👋 Sou desenvolvedor de software
 
 Tenho interesse em desenvolvimento de sistemas e aplicativos, com foco em Android, Kotlin e integração entre dispositivos.
